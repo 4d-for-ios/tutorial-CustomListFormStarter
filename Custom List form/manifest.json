@@ -1,0 +1,7 @@
+{
+  "type": "listform",
+  "name": "Custom List form",
+  "fields": {
+    "count": 3
+  }
+}
