@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="12">
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="15">
 	<com.4d>
 		<deployment>
 			<options/>
 		</deployment>
 		<web>
 			<standalone_server>
-				<configuration allow_ssl="false" port_number="8099" publish_at_startup="true">
+				<configuration allow_ssl="false" port_number="99" publish_at_startup="true">
 					<hosts>
 						<host home_page="index.html" id="0" name="default"/>
 					</hosts>
